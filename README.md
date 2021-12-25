@@ -1,4 +1,7 @@
 # Calculator
+
+A Basic Calculator made using tkinter.
+
 # Tkinter
 
 Tkinter is a Python library for GUI based programming.
